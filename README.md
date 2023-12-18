@@ -4,7 +4,7 @@ This project focuses on enhancing lung cancer detection using machine learning m
 
 **Kaggle Link**: [Modified ResNet50 with Grad-CAM](https://www.kaggle.com/code/pouriaazadehranjbar/modified-resnet50-with-grad-cam)
 
-## Phases Completed:
+## Phases:
 1. **Transfer Learning and Grad-CAM (Phase 1)**
    - Utilized transfer learning techniques with ResNet50 for lung cancer detection.
    - Replaced the final layer for better fitting architecture and employed Grad-CAM for visualization.
