@@ -1,10 +1,10 @@
-### Project Overview
+# Project Overview
 
 This project focuses on enhancing lung cancer detection using machine learning methodologies and ensuring trust, transparency, and robustness in the model. Below is an outline of the project phases, methodologies, and future plans:
 
 **Kaggle Link**: [Modified ResNet50 with Grad-CAM](https://www.kaggle.com/code/pouriaazadehranjbar/modified-resnet50-with-grad-cam)
 
-### Phases Completed:
+## Phases Completed:
 1. **Transfer Learning and Grad-CAM (Phase 1)**
    - Utilized transfer learning techniques with ResNet50 for lung cancer detection.
    - Replaced the final layer for better fitting architecture and employed Grad-CAM for visualization.
@@ -20,14 +20,14 @@ This project focuses on enhancing lung cancer detection using machine learning m
    - Constructed a robust cloud-native system for lung cancer detection.
    - Implemented user-friendly interfaces using Django, React, and Android.
 
-### Future Phases:
-#### Future Plans for Security and Privacy Enhancement:
+## Future Phases:
+### Future Plans for Security and Privacy Enhancement:
 - **Federated Learning Integration**
   - Creating a collaborative environment among multiple institutions using FedAvg to aggregate model updates while preserving data privacy.
 
 - **Differential Privacy Exploration**
   - Strategically adding noise at different pipeline stages to study its impact on both model performance and privacy preservation.
 
-#### Enhanced Model Interpretability:
+### Enhanced Model Interpretability:
 - **Interpretability Methods Exploration**
   - Investigating global and local perspectives, model-specific, and model-agnostic interpretability methods to gain deeper insights into the model's decision-making process.
