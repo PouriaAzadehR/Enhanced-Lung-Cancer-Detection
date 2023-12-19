@@ -2,7 +2,9 @@
 
 This project focuses on enhancing lung cancer detection using machine learning methodologies and ensuring trust, transparency, and robustness in the model. Below is an outline of the project phases, methodologies, and future plans:
 
-**Kaggle Link**: [Modified ResNet50 with Grad-CAM](https://www.kaggle.com/code/pouriaazadehranjbar/modified-resnet50-with-grad-cam)
+**Kaggle Link**: [Modified Resnet with Grad-CAM, Adversarial Attack](https://www.kaggle.com/code/pouriaazadehranjbar/modified-resnet-with-grad-cam-adversarial-attack)
+**Kaggle Dataset Link**: [Adversarial Chest CT-scan Dataset](https://www.kaggle.com/code/pouriaazadehranjbar/modified-resnet-with-grad-cam-adversarial-attack)
+
 
 ## Phases:
 1. **Transfer Learning and Grad-CAM (Phase 1)**
