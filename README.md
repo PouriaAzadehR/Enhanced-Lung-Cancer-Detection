@@ -32,6 +32,6 @@ This project focuses on enhancing lung cancer detection using machine learning m
 - **Differential Privacy Exploration**
   - Strategically adding noise at different pipeline stages to study its impact on both model performance and privacy preservation.
 
-### Enhanced Model Interpretability:
+#### Enhanced Model Interpretability:
 - **Interpretability Methods Exploration**
   - Investigating global and local perspectives, model-specific, and model-agnostic interpretability methods to gain deeper insights into the model's decision-making process.
